@@ -501,4 +501,5 @@ for num in numbers:            # Цикл перебирает каждый эл
 Задание решается с помощью цикла `for`. Сумму можно посчитать используя переменную, находящуюся вне цикла, к которой будет прибавляться значение после каждой итерации.
 
 Выходные данные: <br>
-![image](https://github.com/user-attachments/assets/64a8b248-a0df-48bf-9285-67d5d90520a2)
+![image](https://github.com/user-attachments/assets/73a46137-aa2f-44af-b28c-280da22a4931)
+
