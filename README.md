@@ -1,7 +1,7 @@
 # -6-Python-Cycles-for-while
 ## Циклы в Python
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/cycles+for+while/car.gif?raw=true" width="250">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/cycles+for+while/car.gif?raw=true" width="350">
 
 В любой игре где персонаж двигается постоянно или какое-то время нужен цикл. Или, например, программа с видеонаблюдением, которая постоянно обрабатывает кадры в реальном времени, тоже нуждается в цикле. Такие задачи требуют непрерывного выполнения кода для обновления состояния персонажа в игре или анализа новых кадров с камеры. <br>
 
@@ -11,7 +11,7 @@
 
 ## Цикл `for`
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/cycles+for+while/keyboard.gif?raw=true" width="250">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/cycles+for+while/keyboard.gif?raw=true" width="350">
 
 Цикл `for` используется для перебора элементов в последовательностях (списки, строки, кортежи, множества, словари) или других итерируемых объектов. <br>
 Цикл `for` можно использовать в двух конструкциях: с `range` и без.
@@ -128,7 +128,7 @@ for x in numbers:
 
 ## Цикл `while`
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/cycles+for+while/city.gif?raw=true"  width="250">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/cycles+for+while/city.gif?raw=true"  width="350">
 
 Цикл `while` выполняет блок кода до тех пор, пока условие остаётся истинным. Этот цикл полезен, когда количество итераций неизвестно заранее и зависит от определённых условий.
 
