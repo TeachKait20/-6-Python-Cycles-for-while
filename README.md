@@ -1,5 +1,5 @@
 # -6-Python-Cycles-for-while
-## Циклы в Python
+## Циклы в Python 
 
 <img src="https://github.com/TeachKait20/NoneCode/blob/main/cycles+for+while/car.gif?raw=true" width="350">
 
